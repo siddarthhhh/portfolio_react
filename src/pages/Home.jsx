@@ -1,5 +1,6 @@
 import React from 'react'
 import ThemeToggle from '../components/ThemeToggle'
+import StarBackground from '../components/StarBackground'
 
 const Home = () => {
   return <div className='min-h-screen'>
@@ -9,6 +10,8 @@ const Home = () => {
 
 
     {/* background effect */}
+
+    <StarBackground/>
 
     {/* navbar */}
 
