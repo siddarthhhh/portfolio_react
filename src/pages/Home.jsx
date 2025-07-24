@@ -6,6 +6,7 @@ import HeroSection from '../components/HeroSection'
 import {AboutSection} from '../components/AboutSection'
 import { SkillsSection } from '../components/SkillSection'
 import ProjectSection from '../components/ProjectSection'
+import ContactSection from '../components/ContactSection'
 const Home = () => {
   return <div className='min-h-screen'>
     
@@ -26,6 +27,7 @@ const Home = () => {
       <AboutSection/>
       <SkillsSection/>
       <ProjectSection/>
+      <ContactSection/>
     </main>
 
     {/* footer */}
