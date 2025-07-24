@@ -6,7 +6,10 @@ import HeroSection from '../components/HeroSection'
 import {AboutSection} from '../components/AboutSection'
 import { SkillsSection } from '../components/SkillSection'
 import ProjectSection from '../components/ProjectSection'
-import ContactSection from '../components/ContactSection'
+import {ContactSection} from '../components/ContactSection'
+import { Footer } from '../components/Footer'
+
+
 const Home = () => {
   return <div className='min-h-screen'>
     
@@ -31,8 +34,9 @@ const Home = () => {
     </main>
 
     {/* footer */}
+    <Footer/>
 
   </div>
 }
 
-export default Home
+export default Home;

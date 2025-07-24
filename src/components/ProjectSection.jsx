@@ -8,16 +8,16 @@ import React from 'react'
             id:1,
             title:'AI career coach',
             description:'Your AI carrer Coach for professional Success',
-            image:"",
+            image:"/projects/image1.png",
             tags:["Next JS", "Tailwind", 'Gemini AI', 'Prisma', 'Shadcn UI' ],
-            demoUrl:"#",
+            demoUrl:"https://sens-ai-gz2c.vercel.app/",
             githubUrl:"#"
         },
         {
             id:2,
             title:'Fitness Tracker',
             description:'Measure your fitness',
-            image:"",
+            image:"/projects/image.png",
             tags:['MongoDB','Express.JS',"Node.js","React"],
             demoUrl:"#",
             githubUrl:"#"
