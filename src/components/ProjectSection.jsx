@@ -11,7 +11,7 @@ import React from 'react'
             image:"/projects/image1.png",
             tags:["Next JS", "Tailwind", 'Gemini AI', 'Prisma', 'Shadcn UI' ],
             demoUrl:"https://sens-ai-gz2c.vercel.app/",
-            githubUrl:"#"
+            githubUrl:"https://github.com/siddarthhhh/sens_ai"
         },
         {
             id:2,
@@ -20,7 +20,7 @@ import React from 'react'
             image:"/projects/image.png",
             tags:['MongoDB','Express.JS',"Node.js","React"],
             demoUrl:"#",
-            githubUrl:"#"
+            githubUrl:"https://github.com/siddarthhhh/fitness-tracker"
         }
     ]
 
